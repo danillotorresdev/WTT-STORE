@@ -1,0 +1,215 @@
+{
+    "usuarios": [
+        {
+            "login": "danillo",
+            "nome": "Danillo Ewerton",
+            "role": "user",
+            "senha": "123456"
+        }
+    ],
+    "livros": [
+        {
+            "id": 1,
+            "title": "Pensamento e aprendizado pragmático",
+            "image": "https://cdn.shopify.com/s/files/1/0155/7645/products/p_39bf3c47-8880-4bb9-aa74-4f16435308b7_large.jpg?v=1564428861",
+            "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum mattis convallis nisi id efficitur. Nam arcu elit, scelerisque ac libero ac, ornare pretium sem. Cras vitae imperdiet urna. Phasellus eget lacus sit amet dui varius sodales ut a arcu. Integer lacinia vel orci id ultricies. Mauris a purus felis.",
+            "price": "22,00"
+        },
+        {
+            "id": 2,
+            "title": "Inbound Marketing",
+            "image": "https://cdn.shopify.com/s/files/1/0155/7645/products/p_9435a118-afc6-48d1-8327-22836cde9481_large.jpg?v=1561403049",
+            "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum mattis convallis nisi id efficitur. Nam arcu elit, scelerisque ac libero ac, ornare pretium sem. Cras vitae imperdiet urna. Phasellus eget lacus sit amet dui varius sodales ut a arcu. Integer lacinia vel orci id ultricies. Mauris a purus felis.",
+            "price": "23,00"
+        },
+        {
+            "id": 3,
+            "title": "GraphQl",
+            "image": "https://cdn.shopify.com/s/files/1/0155/7645/products/p_8cd7ee16-3e38-4583-94aa-2f9c21750802_large.jpg?v=1556308954",
+            "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum mattis convallis nisi id efficitur. Nam arcu elit, scelerisque ac libero ac, ornare pretium sem. Cras vitae imperdiet urna. Phasellus eget lacus sit amet dui varius sodales ut a arcu. Integer lacinia vel orci id ultricies. Mauris a purus felis.",
+            "price": "24,00"
+        },
+        {
+            "id": 4,
+            "title": "NodeMCU",
+            "image": "https://cdn.shopify.com/s/files/1/0155/7645/products/p_e4c5c2c3-a72f-4fd6-8507-a984cce10ac1_large.jpg?v=1555092635",
+            "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum mattis convallis nisi id efficitur. Nam arcu elit, scelerisque ac libero ac, ornare pretium sem. Cras vitae imperdiet urna. Phasellus eget lacus sit amet dui varius sodales ut a arcu. Integer lacinia vel orci id ultricies. Mauris a purus felis.",
+            "price": "25,00"
+        },
+        {
+            "id": 5,
+            "title": "Orientação a Objetos em C#",
+            "image": "https://cdn.shopify.com/s/files/1/0155/7645/products/p_494a6944-dc74-4877-bbd4-b8243cb3fe8b_large.jpg?v=1561752630",
+            "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum mattis convallis nisi id efficitur. Nam arcu elit, scelerisque ac libero ac, ornare pretium sem. Cras vitae imperdiet urna. Phasellus eget lacus sit amet dui varius sodales ut a arcu. Integer lacinia vel orci id ultricies. Mauris a purus felis.",
+            "price": "26,00"
+        },
+        {
+            "id": 6,
+            "title": "CopyRight Automatico",
+            "image": "https://cdn.shopify.com/s/files/1/0155/7645/products/p_39bf3c47-8880-4bb9-aa74-4f16435308b7_large.jpg?v=1564428861",
+            "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum mattis convallis nisi id efficitur. Nam arcu elit, scelerisque ac libero ac, ornare pretium sem. Cras vitae imperdiet urna. Phasellus eget lacus sit amet dui varius sodales ut a arcu. Integer lacinia vel orci id ultricies. Mauris a purus felis.",
+            "price": "27,00"
+        },
+        {
+            "id": 7,
+            "title": "CopyRight Automatico",
+            "image": "https://cdn.shopify.com/s/files/1/0155/7645/products/p_39bf3c47-8880-4bb9-aa74-4f16435308b7_large.jpg?v=1564428861",
+            "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum mattis convallis nisi id efficitur. Nam arcu elit, scelerisque ac libero ac, ornare pretium sem. Cras vitae imperdiet urna. Phasellus eget lacus sit amet dui varius sodales ut a arcu. Integer lacinia vel orci id ultricies. Mauris a purus felis.",
+            "price": "28,00"
+        },
+        {
+            "id": 8,
+            "title": "Arduino",
+            "image": "https://cdn.shopify.com/s/files/1/0155/7645/products/p_3719044a-3de2-4e84-9c91-8fa8fc257093_large.jpg?v=1561751165",
+            "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum mattis convallis nisi id efficitur. Nam arcu elit, scelerisque ac libero ac, ornare pretium sem. Cras vitae imperdiet urna. Phasellus eget lacus sit amet dui varius sodales ut a arcu. Integer lacinia vel orci id ultricies. Mauris a purus felis.",
+            "price": "29,00"
+        },
+        {
+            "id": 9,
+            "title": "Web Services REST",
+            "image": "https://cdn.shopify.com/s/files/1/0155/7645/products/wv3KXH7UbTZekuaCTSDj_sIcXB-c4iy37jj7vhCbYCg_size_mode_3_size_800x600_large.jpeg?v=1460748537",
+            "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum mattis convallis nisi id efficitur. Nam arcu elit, scelerisque ac libero ac, ornare pretium sem. Cras vitae imperdiet urna. Phasellus eget lacus sit amet dui varius sodales ut a arcu. Integer lacinia vel orci id ultricies. Mauris a purus felis.",
+            "price": "30,00"
+        },
+        {
+            "id": 10,
+            "title": "CopyRight Automatico",
+            "image": "https://cdn.shopify.com/s/files/1/0155/7645/products/p_39bf3c47-8880-4bb9-aa74-4f16435308b7_large.jpg?v=1564428861",
+            "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum mattis convallis nisi id efficitur. Nam arcu elit, scelerisque ac libero ac, ornare pretium sem. Cras vitae imperdiet urna. Phasellus eget lacus sit amet dui varius sodales ut a arcu. Integer lacinia vel orci id ultricies. Mauris a purus felis.",
+            "price": "60,00"
+        },
+        {
+            "id": 11,
+            "title": "CopyRight Automatico",
+            "image": "https://cdn.shopify.com/s/files/1/0155/7645/products/p_39bf3c47-8880-4bb9-aa74-4f16435308b7_large.jpg?v=1564428861",
+            "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum mattis convallis nisi id efficitur. Nam arcu elit, scelerisque ac libero ac, ornare pretium sem. Cras vitae imperdiet urna. Phasellus eget lacus sit amet dui varius sodales ut a arcu. Integer lacinia vel orci id ultricies. Mauris a purus felis.",
+            "price": "70,00"
+        },
+        {
+            "id": 12,
+            "title": "Xamarin Forms",
+            "image": "https://cdn.shopify.com/s/files/1/0155/7645/products/p_2612a768-a47c-478a-a4a9-0911be3092dd_large.jpg?v=1552678840",
+            "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum mattis convallis nisi id efficitur. Nam arcu elit, scelerisque ac libero ac, ornare pretium sem. Cras vitae imperdiet urna. Phasellus eget lacus sit amet dui varius sodales ut a arcu. Integer lacinia vel orci id ultricies. Mauris a purus felis.",
+            "price": "80,00"
+        },
+        {
+            "id": 13,
+            "title": "Jenkins",
+            "image": "https://cdn.shopify.com/s/files/1/0155/7645/products/p_df83da57-4b28-48e4-aa32-5d93bda54220_large.jpg?v=1550858388",
+            "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum mattis convallis nisi id efficitur. Nam arcu elit, scelerisque ac libero ac, ornare pretium sem. Cras vitae imperdiet urna. Phasellus eget lacus sit amet dui varius sodales ut a arcu. Integer lacinia vel orci id ultricies. Mauris a purus felis.",
+            "price": "40,00"
+        },
+        {
+            "id": 14,
+            "title": "Introdução ao kit robótico LEGO EV",
+            "image": "https://cdn.shopify.com/s/files/1/0155/7645/products/p_fb293b37-d07d-44d3-b1b0-54196a4b7ffc_large.jpg?v=1537554040",
+            "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum mattis convallis nisi id efficitur. Nam arcu elit, scelerisque ac libero ac, ornare pretium sem. Cras vitae imperdiet urna. Phasellus eget lacus sit amet dui varius sodales ut a arcu. Integer lacinia vel orci id ultricies. Mauris a purus felis.",
+            "price": "10,00"
+        },
+        {
+            "id": 15,
+            "title": "Construct 2",
+            "image": "https://cdn.shopify.com/s/files/1/0155/7645/products/eBook-Construct-2_large.jpg?v=1516986781",
+            "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum mattis convallis nisi id efficitur. Nam arcu elit, scelerisque ac libero ac, ornare pretium sem. Cras vitae imperdiet urna. Phasellus eget lacus sit amet dui varius sodales ut a arcu. Integer lacinia vel orci id ultricies. Mauris a purus felis.",
+            "price": "20,00"
+        },
+        {
+            "id": 16,
+            "title": "App Inventor",
+            "image": "https://cdn.shopify.com/s/files/1/0155/7645/products/CaMWGHXUhWVSWaH4aZazotOcKm3ckVDokQ0IQ5fM0KU_large.jpg?v=1512148345",
+            "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum mattis convallis nisi id efficitur. Nam arcu elit, scelerisque ac libero ac, ornare pretium sem. Cras vitae imperdiet urna. Phasellus eget lacus sit amet dui varius sodales ut a arcu. Integer lacinia vel orci id ultricies. Mauris a purus felis.",
+            "price": "50,00"
+        },
+        {
+            "id": 17,
+            "title": "Scratch",
+            "image": "https://cdn.shopify.com/s/files/1/0155/7645/products/YenvGixkQWFaq3oZpZr7dGXue8geB59fbwBHgS23orQ_large.jpg?v=1496341655",
+            "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum mattis convallis nisi id efficitur. Nam arcu elit, scelerisque ac libero ac, ornare pretium sem. Cras vitae imperdiet urna. Phasellus eget lacus sit amet dui varius sodales ut a arcu. Integer lacinia vel orci id ultricies. Mauris a purus felis.",
+            "price": "20,00"
+        },
+        {
+            "id": 18,
+            "title": "CodeIngniter",
+            "image": "https://cdn.shopify.com/s/files/1/0155/7645/products/casadocodigo-colecao-comece-programar_large.png?v=1470959480",
+            "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum mattis convallis nisi id efficitur. Nam arcu elit, scelerisque ac libero ac, ornare pretium sem. Cras vitae imperdiet urna. Phasellus eget lacus sit amet dui varius sodales ut a arcu. Integer lacinia vel orci id ultricies. Mauris a purus felis.",
+            "price": "30,00"
+        },
+        {
+            "id": 19,
+            "title": "Introdução à programação em C",
+            "image": "https://cdn.shopify.com/s/files/1/0155/7645/products/introducao-c-featured_large.png?v=1440011167",
+            "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum mattis convallis nisi id efficitur. Nam arcu elit, scelerisque ac libero ac, ornare pretium sem. Cras vitae imperdiet urna. Phasellus eget lacus sit amet dui varius sodales ut a arcu. Integer lacinia vel orci id ultricies. Mauris a purus felis.",
+            "price": "30,00"
+        },
+        {
+            "id": 20,
+            "title": "Introdução à Computação",
+            "image": "https://cdn.shopify.com/s/files/1/0155/7645/products/introducao-ruby-featured_9c39896f-ea67-4389-9f96-43a7a4de2b64_large.png?v=1432680156",
+            "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum mattis convallis nisi id efficitur. Nam arcu elit, scelerisque ac libero ac, ornare pretium sem. Cras vitae imperdiet urna. Phasellus eget lacus sit amet dui varius sodales ut a arcu. Integer lacinia vel orci id ultricies. Mauris a purus felis.",
+            "price": "10,00"
+        },
+        {
+            "id": 21,
+            "title": "Logica de programação",
+            "image": "https://cdn.shopify.com/s/files/1/0155/7645/products/programacao-featured_large.png?v=1411490523",
+            "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum mattis convallis nisi id efficitur. Nam arcu elit, scelerisque ac libero ac, ornare pretium sem. Cras vitae imperdiet urna. Phasellus eget lacus sit amet dui varius sodales ut a arcu. Integer lacinia vel orci id ultricies. Mauris a purus felis.",
+            "price": "20,00"
+        },
+        {
+            "id": 22,
+            "title": "Datas e horas",
+            "image": "https://cdn.shopify.com/s/files/1/0155/7645/products/p_1fe74e94-82e9-413f-9d3d-c2d473da9861_large.jpg?v=1553198246",
+            "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum mattis convallis nisi id efficitur. Nam arcu elit, scelerisque ac libero ac, ornare pretium sem. Cras vitae imperdiet urna. Phasellus eget lacus sit amet dui varius sodales ut a arcu. Integer lacinia vel orci id ultricies. Mauris a purus felis.",
+            "price": "20,00"
+        },
+        {
+            "id": 23,
+            "title": "Spock Framework",
+            "image": "https://cdn.shopify.com/s/files/1/0155/7645/products/eBook-Spock-Framework_large.jpg?v=1538771077",
+            "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum mattis convallis nisi id efficitur. Nam arcu elit, scelerisque ac libero ac, ornare pretium sem. Cras vitae imperdiet urna. Phasellus eget lacus sit amet dui varius sodales ut a arcu. Integer lacinia vel orci id ultricies. Mauris a purus felis.",
+            "price": "10,00"
+        },
+        {
+            "id": 24,
+            "title": "Selenium webdriver",
+            "image": "https://cdn.shopify.com/s/files/1/0155/7645/products/p_large.jpg?v=1531506182",
+            "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum mattis convallis nisi id efficitur. Nam arcu elit, scelerisque ac libero ac, ornare pretium sem. Cras vitae imperdiet urna. Phasellus eget lacus sit amet dui varius sodales ut a arcu. Integer lacinia vel orci id ultricies. Mauris a purus felis.",
+            "price": "10,00"
+        },
+        {
+            "id": 25,
+            "title": "Oauth 2.0",
+            "image": "https://cdn.shopify.com/s/files/1/0155/7645/products/eBook-OAuth-2.0_large.jpg?v=1506712443",
+            "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum mattis convallis nisi id efficitur. Nam arcu elit, scelerisque ac libero ac, ornare pretium sem. Cras vitae imperdiet urna. Phasellus eget lacus sit amet dui varius sodales ut a arcu. Integer lacinia vel orci id ultricies. Mauris a purus felis.",
+            "price": "10,00"
+        },
+        {
+            "id": 26,
+            "title": "Oauth 2.0",
+            "image": "https://cdn.shopify.com/s/files/1/0155/7645/products/eBook-OAuth-2.0_large.jpg?v=1506712443",
+            "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum mattis convallis nisi id efficitur. Nam arcu elit, scelerisque ac libero ac, ornare pretium sem. Cras vitae imperdiet urna. Phasellus eget lacus sit amet dui varius sodales ut a arcu. Integer lacinia vel orci id ultricies. Mauris a purus felis.",
+            "price": "10,00"
+        },
+        {
+            "id": 27,
+            "title": "Oauth 2.0",
+            "image": "https://cdn.shopify.com/s/files/1/0155/7645/products/eBook-OAuth-2.0_large.jpg?v=1506712443",
+            "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum mattis convallis nisi id efficitur. Nam arcu elit, scelerisque ac libero ac, ornare pretium sem. Cras vitae imperdiet urna. Phasellus eget lacus sit amet dui varius sodales ut a arcu. Integer lacinia vel orci id ultricies. Mauris a purus felis.",
+            "price": "10,00"
+        },
+        {
+            "id": 28,
+            "title": "Oauth 2.0",
+            "image": "https://cdn.shopify.com/s/files/1/0155/7645/products/eBook-OAuth-2.0_large.jpg?v=1506712443",
+            "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum mattis convallis nisi id efficitur. Nam arcu elit, scelerisque ac libero ac, ornare pretium sem. Cras vitae imperdiet urna. Phasellus eget lacus sit amet dui varius sodales ut a arcu. Integer lacinia vel orci id ultricies. Mauris a purus felis.",
+            "price": "10,00"
+        },
+        {
+            "id": 29,
+            "title": "Oauth 2.0",
+            "image": "https://cdn.shopify.com/s/files/1/0155/7645/products/eBook-OAuth-2.0_large.jpg?v=1506712443",
+            "info": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum mattis convallis nisi id efficitur. Nam arcu elit, scelerisque ac libero ac, ornare pretium sem. Cras vitae imperdiet urna. Phasellus eget lacus sit amet dui varius sodales ut a arcu. Integer lacinia vel orci id ultricies. Mauris a purus felis.",
+            "price": "10,00"
+        }
+    ]
+}

@@ -1,0 +1,55 @@
+.homeContent {
+  .nav {
+    &--buy {
+      position: absolute;
+      font-size: 10px;
+      top: 7px;
+      left: 37.2%;
+    }
+
+    &--titleTab {
+      padding-left: 10px;
+      font-weight: 400;
+      font-size: 18px;
+    }
+  }
+
+  .btn-sell-my-car {
+    background: transparent;
+    border: 2px solid #f59d26;
+    color: #f59d26;
+    font-weight: 500;
+    padding: 0.5em 2em;
+    &:hover {
+      color: #f59d26;
+    }
+  }
+
+  .checkbox2 {
+    margin-left: 2pxz;
+  }
+
+  //custom bootstrap classes
+  .tabs-nav {
+    background: #f4f4f4;
+    .nav-link {
+      color: #8b96af;
+      text-transform: uppercase;
+      font-weight: 400;
+      position: relative;
+      padding: 1em 1em;
+    }
+    .nav-link.active,
+    .nav-item.show .nav-link {
+      border-bottom: 2px solid red;
+    }
+    .nav-item {
+      p {
+        margin: 0;
+      }
+    }
+  }
+  .card{
+    cursor: pointer;
+  }
+}

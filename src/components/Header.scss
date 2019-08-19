@@ -1,0 +1,14 @@
+nav.navbar {
+  background: #f4f4f4;
+  padding: 1em 0;
+}
+.logo {
+  width: 50px;
+  margin-left: 1em;
+}
+
+@media (min-width: 768px) {
+  .logo {
+    margin-left: inherit;
+  }
+}

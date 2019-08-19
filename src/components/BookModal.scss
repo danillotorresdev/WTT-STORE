@@ -1,0 +1,60 @@
+.bookModal {
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  background: #00000073;
+  top: 0;
+  left: 0;
+  right: 0;
+  margin: auto;
+  &--box {
+    width: 60%;
+    height: 521px;
+    background: #fff;
+    border-radius: 15px;
+    margin-top: 2.5em;
+    position: absolute;
+    left: 0;
+    right: 0;
+    top: 0;
+    bottom: 0;
+    margin: auto;
+  }
+  &--img {
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+    width: 100%;
+    height: 420px;
+    object-fit: contain;
+  }
+  &--leftColumn{
+    width: 50%;
+    height: 100%;
+  }
+  &--rightColumn{
+    width: 50%;
+  }
+  &--info {
+    padding: 2em 1.5em 0 0;
+  }
+  &--show {
+    display: block;
+  }
+  &--null {
+    display: none;
+  }
+  &--price {
+    width: 50%;
+  }
+  &--cart {
+    width: 50%;
+  }
+  &--close{
+    position: absolute;
+    right: 13px;
+    top: 6px;
+    cursor: pointer;
+    color: #36393e;
+    z-index: 1;
+  }
+}

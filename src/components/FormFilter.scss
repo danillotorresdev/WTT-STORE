@@ -1,0 +1,77 @@
+.formDog {
+  &--advancedSearch {
+    width: 60%;
+  }
+  &--cleanFilters {
+    width: 12%;
+    text-align: center;
+  }
+  &--sendButton {
+    width: 100%;
+    background: #fb8b8b;
+    box-shadow: none;
+    color: #fff;
+    padding: 0.8em;
+    font-weight: bold;
+    text-transform: uppercase;
+    border-radius: 4px;
+    margin-top: 1em;
+    border: none;
+  }
+
+  &--imageWithText {
+    position: relative;
+    text-align: center;
+  }
+  &--img{
+    max-height: 500px;
+    width: 100%;
+    object-fit: cover;
+    object-position: center;
+  }
+
+  &--dogName {
+    position: absolute;
+    top: 0;
+    font-weight: bold;
+    font-size: 45px;
+    color: #fff;
+    width: 100%;
+    margin: 0 auto;
+  }
+  &--color {
+    &__blue {
+      color: $blue;
+    }
+    &__red {
+      color: $red;
+    }
+    &__white {
+      color: $white;
+    }
+    &__yellow {
+      color: $yellow;
+    }
+    &__purple {
+      color: $purple;
+    }
+  }
+
+  &--font {
+    &__nunito {
+      font-family: $fontNunito;
+    }
+    &__roboto {
+      font-family: $fontRoboto;
+    }
+    &__lexend {
+      font-family: $fontLexend;
+    }
+    &__hind {
+      font-family: $fontHind;
+    }
+    &__montserrat {
+      font-family: $fontMontserrat;
+    }
+  }
+}
